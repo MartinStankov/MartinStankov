@@ -22,6 +22,7 @@
 <img align="left" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" style="padding-right:10px;"/>
 <img align="left" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" style="padding-right:10px;"/>
 <img align="left" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="padding-right:10px;"/>
+<img align="left" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="padding-right:10px;"/>
 <img align="left" width="30px" height="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" style="padding-right:10px;"/>
 
 <br />
