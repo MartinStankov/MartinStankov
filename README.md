@@ -4,7 +4,7 @@
 
 - 🎓 Studying at **University of Library Studies and Information Technologies**
 - 📗 Graduated at **SoftUni** with Python
-- 🐍 I am currently learning **Web Development** with **Flask**
+- 🐍 I am currently learning **Java**
 - 👀 Fun facts: I like playing video games 🎮 and listening to music 🎵
 
 <!--### <h2> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRsZXN0N25waTl3dDQzYzZkeHh1cDdmb3Exa3ducXExdWI2dDZ3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MiZHDIEMFaNzHRRGth/giphy.gif" width = 18px> Languages and Tools I use </h2> -->
